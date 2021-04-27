@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# C++ build directory
+/build
+/cmake-build-debug
+
+# VS code
+.vscode
+
